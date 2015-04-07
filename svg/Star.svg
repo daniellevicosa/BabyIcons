@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Star</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Row-4" sketch:type="MSLayerGroup" transform="translate(-2400.000000, -21.000000)">
+            <g id="Star" transform="translate(2400.000000, 21.000000)" sketch:type="MSShapeGroup">
+                <path d="M250,500 C388.071187,500 500,388.071187 500,250 C500,111.928813 388.071187,0 250,0 C111.928813,0 0,111.928813 0,250 C0,388.071187 111.928813,500 250,500 Z" fill="#CAA4CC"></path>
+                <path d="M268.179977,331.79332 C255.179977,335.79332 206.179985,391.793304 181.179985,375.79332 C156.179985,359.793335 171.179983,288.793314 171.179983,288.793314 C171.179983,288.793314 107.179981,250.793317 111.179982,227.793314 C115.179982,204.793312 172.179985,205.793309 194.179985,186.793312 C216.179985,167.793314 207.673045,132.962297 238.179985,122.793314 C262.179977,114.793315 287.179977,169.793312 299.179977,175.793313 C311.179977,181.793314 378.179993,165.793316 387.179993,180.793316 C401.314528,204.350874 346.179977,268.79332 346.179977,268.79332 C346.179977,268.79332 377.179977,334.79332 358.179977,352.79332 C339.179977,370.79332 281.179977,327.79332 268.179977,331.79332 Z" id="Star-" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
