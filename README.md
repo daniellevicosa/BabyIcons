@@ -8,7 +8,7 @@ Icons with a very handmade feel, initially created to be part of the iOS app [Ma
 
 ## License
 
-### Rights
+#### Rights
 
 You are permitted to use the resources for any number of personal and commercial projects.
 You may modify the resources according to your requirements and include them into works,
@@ -16,7 +16,7 @@ such as websites, applications or other materials intended for sale. No attribut
 link back to this site is required, however any credit will be much appreciated.
 
 
-### Prohibitions
+#### Prohibitions
 
 You do not have the rights to redistribute, resell, lease, license, sublicense or offer
 files downloaded from http://daniellevicosa.com to any third party "as is" or as a separate attachment
